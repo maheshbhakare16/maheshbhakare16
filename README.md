@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @maheshbhakare16
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C++ && JAVA
 - 🌱 I've completed C Language
 <!---
 maheshbhakare16/maheshbhakare16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
