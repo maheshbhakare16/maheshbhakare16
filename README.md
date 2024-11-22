@@ -3,15 +3,19 @@
 > ```
 
 > ```
+> 👷🏻‍♂️ Software Engineer @Innostride Consulting LLP.
+> ```
+
+> ```
 > 💻 I’m interested in Programming and Development
 > ```
 
 > ```
-> 🌱 I’m currently learning JAVA
+> 🌱 I’m currently working as a Mulesoft Developer in Integration Domain.
 > ```
 
 > ```
-> 🏅 I've completed C Language, Data Structure and Algorithms , C++ Programming.
+> 🏅 I've completed C Language, Data Structure and Algorithms , C++ Programming, JAVA, etc.
 > ```
 
 
